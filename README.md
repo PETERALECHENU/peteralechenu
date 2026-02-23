@@ -1,15 +1,21 @@
-## Hi there 👋
+ Cybersecurity Analyst | Ethical Hacking | GRC | Linux | Actively Seeking Opportunities
+## 🔐 Areas of Expertise
 
-**PETERALECHENU/peteralechenu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Penetration Testing & Ethical Hacking:**
+  - Proficient in Kali Linux, Metasploit, and exploit testing.
+  - Skilled in vulnerability assessments and red team engagements.
 
-Here are some ideas to get you started:
+- **SOC Analyst:**
+  - Experienced in threat hunting, incident response, and SIEM implementation.
+  - Adept at managing SOC operations and real-time incident mitigation.
 
-- 🔭 I’m currently working on a project to safegaurd a fintech from cyberattack
-- 🌱 I’m currently training with 10alytics united kingdom ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Governance, Risk & Compliance (GRC):**
+  - Knowledgeable in ISO 27001, NIST, and SOC 2 frameworks.
+  - Strong background in implementing security controls.
 
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [My Professional Twitter or Website](URL)
+
+Feel free to check out my projects or get in touch if you want to collaborate!
