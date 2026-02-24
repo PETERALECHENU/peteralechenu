@@ -15,7 +15,7 @@
 
 ## 📫 Connect with Me
 
-- [LinkedIn]# Peter Alechenu Apeh
+- [LinkedIn]#https://www.linkedin.com/in/peter-apeh-4a556839b/
 
 Cybersecurity Professional | Ethical Hacking | Network Security | Python & Linux
 
